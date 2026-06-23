@@ -65,19 +65,3 @@ Plaintext
 Desenvolvido por Breno de Jesus
 
 Focado em transformar dados brutos em decisões inteligentes.
-
-
----
-
-### Por que esse README é "foda"?
-
-1.  **Badges Profissionais:** No topo, ele já mostra as tecnologias (`Python`, `Streamlit`, `Ollama`) com selos coloridos. Isso passa autoridade imediata.
-2.  **Foco no Negócio:** Ele explica *por que* o projeto é útil (privacidade, automação, estratégia), não apenas o que o código faz.
-3.  **Privacidade como Destaque:** No mundo dos dados, enfatizar que a IA é local e segura é um diferencial enorme.
-4.  **Organização:** Instruções claras de como qualquer pessoa pode baixar e rodar o seu trabalho.
-
-**Dica final:** Depois de colar isso no arquivo e salvar, faça o commit:
-```bash
-git add README.md
-git commit -m "Docs: Adicionando documentação detalhada"
-git push
